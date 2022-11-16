@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./bg.png) center;
+}
+.my_container{
+    width: 1020px;
+    margin: 0 auto;
+    padding: 0 22px 0 0;
+}
+/* headr  */
+.topbar{
+    background: #9e5bba;
+    height: 30px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 30px;
+}
+.right p{
+    display: inline-block;
+    border-right: 1px solid whitesmoke;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.right a{
+    color: #fff;
+    text-decoration: none;
+}
+/* .right p:nth-child(1){
+    border-right: 1px solid red;
+    padding: 0 10px;
+}
+.right p:nth-child(2){
+    margin-left: 10px;
+} */
+.logo{
+    height: 100px;
+}
+.l_logo{
+    line-height: 101px;
+}
+.middle{
+    padding-top: 37px;
+}
+.rlog{
+    margin-top: 27px;
+}
+/* header topbar right */
+.rlogoL{
+    border-right: 1px solid black;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.navvv ul li {
+    font-size: 14px;
+}
+.navvv ul li:hover{
+    background: #9e5bba ;
+    color:  white;
+}
+
+
+
+
+
+
+
+
+
+
+.banner{
+    border: 1px solid red;
+}
+.empty{
+    height: 180px;
+    background: #dedede;
+}
+.empty2{
+    height: 140px;
+    background: #dedede;
+}
+.link_m{
+    font-size: 13px;
+    text-decoration: none;
+    list-style: none;
+}
+/* slider strt  */
+.slider{
+    padding: 25px 0 25px 0;
+}
+.slider img{
+    width: 100%;
+}
+form select{
+    margin:0 5px 0 0;
+    width: 80%;
+    padding: 5px;
+    font-size: 12px;
+}
+button{
+    padding: 3px 5px 3px 5px;
+    border: none;
+    background: #dedede;
+    font-size: 12px;
+}
+button:hover{
+    background: orange;
+    color: green;
+}
+.side-tw{
+    color: whitesmoke;
+    font-size: 12px;
+    letter-spacing: 1px;
+    background: rgb(46, 170, 46);
+}
+/* উদ্যোগ  uddog*/
+.uddog{
+    width: 70%;
+    margin-top: 15px;
+}
+.uddog h5{
+    padding: 20px;
+    color:green;
+}
+.uddog ul li{
+    display: inline-block;
+    list-style: none;
+    border-bottom: 1px solid green;
+    padding: 10px;
+    font-size: 14px;
+}
+.uddog ul li a{
+    text-decoration: none;
+    color: black;
+}
+/* sokol */
+.sokol{
+    width: 100%;
+    background: red;
+    margin-bottom: 10px;
+}
+.sokol a{
+    text-align: center;
+}
+.video_link h6{
+    background: green;
+}
+table td{
+    padding: 10px 10px 0 20px;
+}
+/* footer  */
+.bg{
+    margin-top: 25px;
+}
+/* header menu  */
+.menu ul li{
+    border-right: 1px solid rgb(119, 113, 113);
+    margin-left: 0px;
+}
+.menu ul li a{
+    font-size: 12px;
+}
+.fl  {
+    padding: 15px 0 0 0;}
+.fl  {
+font-size: 10px;
+}
+.fl img{
+    margin: 0 0 29px 9px;
+}
+.tf{
+    background-color: green;
+}
+.bg p{
+    font-size: 10px;
+}
